@@ -1,1 +1,11 @@
-# full-stack
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My GitHub Page</title>
+  </head>
+  <body>
+    <h1>Welcome to My Website</h1>
+    <p>This is hosted on GitHub pages</p>
+  </body>
+  </head>                                                                                                                                                                                                                                                                                                                                                                              `
+</html>
